@@ -192,3 +192,152 @@ mkdir devops
 ls
 rm -rf *
 exit
+git --version
+ls
+cat >>package.json
+cat >>Dockerfile
+LS
+ls
+git status
+git add .
+git commit -m "updated nodejs code"
+git status
+git push origin main
+sudo apt install docker.io -y
+docker --version
+sudo usermod -aG docker jenkins
+sudo apt install git -y
+git --version
+sudo systemctl restart docker sudo systemctl restart jenkins
+groups jenkins
+ls
+echo "# DevOpsProject4" >> README.md
+ls
+cat README.md
+git init
+ls -la
+git add .
+git commit -m "update first file"
+git branch -M main
+git remote add origin https://github.com/Bhavanasj78/DevOpsProject4.git
+git push -u origin main
+cat >>app.js
+ls
+cat >>package.json
+java --version
+[200~sudo apt update
+sudo apt install fontconfig openjdk-21-jre
+java --version
+rm -rf *
+sudo apt
+java --version
+apt install openjdk-21-jre-headless  # version 21.0.11+10-1~24.04.2
+java --version
+sudo systemctl status jenkins
+sudo wget -O /etc/apt/keyrings/jenkins-keyring.asc   https://pkg.jenkins.io/debian-stable/jenkins.io-2026.key
+echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc]"   https://pkg.jenkins.io/debian-stable binary/ | sudo tee   /etc/apt/sources.list.d/jenkins.list > /dev/null
+sudo apt update
+sudo apt install jenkins
+sudo systemctl status jenkins
+vi Dockerfile
+mkdir test
+ls
+ls -l
+mkdir microdegree
+ls -l
+touch sample.txt
+ls -l
+vi sample.txt
+cat sample.txt
+vi sample.txt
+cat sample.txt
+cd test/
+ls
+mkdir -p data1/data2/data3
+ls
+tree
+cd
+git clone https://github.com/Bhavanasj78/2md-devops-masterclass.git
+ls
+cd 2md-devops-masterclass/
+ls
+cat README.md
+ls
+vi script.sh
+ls
+ls -l
+./script.sh
+chmod 777 script.sh
+ls
+ls -l
+./script.sh
+ls
+ls -R
+ls
+git status
+git add .
+git status
+git commit -m "first commit from cli"
+git status
+git push
+docker
+systemctl status docker
+docker images
+docker pull ubuntu
+docker images
+docker run -it -d --name c1 ubuntu
+docker ps
+docker ps -a
+docker images
+apache
+apache2
+apt install apache2-bin
+docker images
+systemctl status apache2
+apache2
+sudo apt update
+sudo apt install apache2 -y
+sudo systemctl status apache2
+cd /var/www/html
+cd /var/www/html/
+cd
+mkdir apache-web-application
+cd apache-web-application/
+ls
+vi Dockerfile
+ls
+vi index.html
+ls
+docker build -t 
+docker build -t myown:1 .
+vi dockerfile
+vi Dockerfile
+docker build  -t myown:1 .
+docker images
+docker run -it -d --name c4 -p 9000:80 myown:1
+docker images
+docker ps
+docker exc -it c1 /bin/bash
+docker exec -it c1 /bin/bash
+ls
+apache2ctl
+apache2
+exit
+ls
+docker exec -it c4 /bin/bash
+ls
+cat Dockerfile
+ls
+k
+java version
+java --version
+systemctl status jenkins
+ls
+clear
+java --version
+sudo systemctl status jenkins
+java --version
+sudo systemctl status jenkins
+docker --version
+sudo usermod -aG docker jenkins
+ls

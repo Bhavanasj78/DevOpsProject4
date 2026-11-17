@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1788078906,,"wq"
+|2,0,1789039569,,"wq"
 :q
 |2,0,1787931694,,"q"
 
@@ -27,230 +27,284 @@
 # Registers:
 
 # File marks:
-'0  5  7  ~/light.txt
-|4,48,5,7,1788078906,"~/light.txt"
-'1  3  0  ~/light.txt
-|4,49,3,0,1788078893,"~/light.txt"
-'2  3  0  ~/light.txt
-|4,50,3,0,1788078893,"~/light.txt"
-'3  2  0  ~/abc-de/script.sh
-|4,51,2,0,1787931706,"~/abc-de/script.sh"
-'4  5  8  ~/def.txt
-|4,52,5,8,1787925541,"~/def.txt"
-'5  2  11  ~/def.txt
-|4,53,2,11,1787925378,"~/def.txt"
-'6  2  11  ~/def.txt
-|4,54,2,11,1787925378,"~/def.txt"
-'7  1  0  ~/sample.txt
-|4,55,1,0,1787906682,"~/sample.txt"
-'8  1  0  ~/sample.txt
-|4,56,1,0,1787906682,"~/sample.txt"
-'9  6  3  ~/dev-mas-cls/script.sh
-|4,57,6,3,1787405177,"~/dev-mas-cls/script.sh"
+'0  8  3  ~/apache-web-application/Dockerfile
+|4,48,8,3,1789039569,"~/apache-web-application/Dockerfile"
+'1  1  0  ~/apache-web-application/dockerfile
+|4,49,1,0,1789039473,"~/apache-web-application/dockerfile"
+'2  5  0  ~/Dockerfile
+|4,50,5,0,1789039430,"~/Dockerfile"
+'3  92  6  ~/apache-web-application/index.html
+|4,51,92,6,1789039147,"~/apache-web-application/index.html"
+'4  16  21  ~/apache-web-application/Dockerfile
+|4,52,16,21,1789038745,"~/apache-web-application/Dockerfile"
+'5  16  21  ~/apache-web-application/Dockerfile
+|4,53,16,21,1789038745,"~/apache-web-application/Dockerfile"
+'6  7  3  ~/2md-devops-masterclass/script.sh
+|4,54,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+'7  9  16  ~/sample.txt
+|4,55,9,16,1789019410,"~/sample.txt"
+'8  2  19  ~/sample.txt
+|4,56,2,19,1789019259,"~/sample.txt"
+'9  2  19  ~/sample.txt
+|4,57,2,19,1789019259,"~/sample.txt"
 
 # Jumplist (newest first):
--'  5  7  ~/light.txt
-|4,39,5,7,1788078906,"~/light.txt"
--'  3  0  ~/light.txt
-|4,39,3,0,1788078893,"~/light.txt"
--'  3  0  ~/light.txt
-|4,39,3,0,1788078889,"~/light.txt"
--'  1  0  ~/light.txt
-|4,39,1,0,1788078873,"~/light.txt"
--'  1  0  ~/light.txt
-|4,39,1,0,1788078873,"~/light.txt"
--'  2  0  ~/abc-de/script.sh
-|4,39,2,0,1787931706,"~/abc-de/script.sh"
--'  2  0  ~/abc-de/script.sh
-|4,39,2,0,1787931706,"~/abc-de/script.sh"
--'  2  0  ~/abc-de/script.sh
-|4,39,2,0,1787931706,"~/abc-de/script.sh"
--'  2  0  ~/abc-de/script.sh
-|4,39,2,0,1787931706,"~/abc-de/script.sh"
--'  1  0  ~/abc-de/script.sh
-|4,39,1,0,1787931412,"~/abc-de/script.sh"
--'  1  0  ~/abc-de/script.sh
-|4,39,1,0,1787931412,"~/abc-de/script.sh"
--'  1  0  ~/abc-de/script.sh
-|4,39,1,0,1787931412,"~/abc-de/script.sh"
--'  1  0  ~/abc-de/script.sh
-|4,39,1,0,1787931412,"~/abc-de/script.sh"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  5  8  ~/def.txt
-|4,39,5,8,1787925541,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925500,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  2  11  ~/def.txt
-|4,39,2,11,1787925378,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/def.txt
-|4,39,1,0,1787925334,"~/def.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
--'  1  0  ~/sample.txt
-|4,39,1,0,1787906682,"~/sample.txt"
+-'  8  3  ~/apache-web-application/Dockerfile
+|4,39,8,3,1789039569,"~/apache-web-application/Dockerfile"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789039530,"~/apache-web-application/Dockerfile"
+-'  1  0  ~/apache-web-application/dockerfile
+|4,39,1,0,1789039473,"~/apache-web-application/dockerfile"
+-'  1  0  ~/apache-web-application/dockerfile
+|4,39,1,0,1789039473,"~/apache-web-application/dockerfile"
+-'  5  0  ~/Dockerfile
+|4,39,5,0,1789039430,"~/Dockerfile"
+-'  5  0  ~/Dockerfile
+|4,39,5,0,1789039430,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1789039386,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1789039386,"~/Dockerfile"
+-'  92  6  ~/apache-web-application/index.html
+|4,39,92,6,1789039147,"~/apache-web-application/index.html"
+-'  92  6  ~/apache-web-application/index.html
+|4,39,92,6,1789039147,"~/apache-web-application/index.html"
+-'  92  6  ~/apache-web-application/index.html
+|4,39,92,6,1789039147,"~/apache-web-application/index.html"
+-'  92  6  ~/apache-web-application/index.html
+|4,39,92,6,1789039147,"~/apache-web-application/index.html"
+-'  92  6  ~/apache-web-application/index.html
+|4,39,92,6,1789039147,"~/apache-web-application/index.html"
+-'  92  6  ~/apache-web-application/index.html
+|4,39,92,6,1789039147,"~/apache-web-application/index.html"
+-'  1  0  ~/apache-web-application/index.html
+|4,39,1,0,1789038797,"~/apache-web-application/index.html"
+-'  1  0  ~/apache-web-application/index.html
+|4,39,1,0,1789038797,"~/apache-web-application/index.html"
+-'  1  0  ~/apache-web-application/index.html
+|4,39,1,0,1789038797,"~/apache-web-application/index.html"
+-'  1  0  ~/apache-web-application/index.html
+|4,39,1,0,1789038797,"~/apache-web-application/index.html"
+-'  1  0  ~/apache-web-application/index.html
+|4,39,1,0,1789038797,"~/apache-web-application/index.html"
+-'  1  0  ~/apache-web-application/index.html
+|4,39,1,0,1789038797,"~/apache-web-application/index.html"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789038745,"~/apache-web-application/Dockerfile"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789038745,"~/apache-web-application/Dockerfile"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789038745,"~/apache-web-application/Dockerfile"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789038745,"~/apache-web-application/Dockerfile"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789038745,"~/apache-web-application/Dockerfile"
+-'  16  21  ~/apache-web-application/Dockerfile
+|4,39,16,21,1789038745,"~/apache-web-application/Dockerfile"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  7  3  ~/2md-devops-masterclass/script.sh
+|4,39,7,3,1789020693,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  1  0  ~/2md-devops-masterclass/script.sh
+|4,39,1,0,1789020377,"~/2md-devops-masterclass/script.sh"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
+-'  9  16  ~/sample.txt
+|4,39,9,16,1789019410,"~/sample.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/apache-web-application/Dockerfile
+	*	1789039566	0
+	"	8	3
+	^	8	4
+	.	8	4
+	+	16	23
+	+	12	0
+	+	10	33
+	+	8	31
+	+	13	1
+	+	16	1
+	+	17	0
+	+	16	19
+	+	6	3
+	+	8	4
+
+> ~/apache-web-application/dockerfile
+	*	1789039470	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Dockerfile
+	*	1789039419	0
+	"	5	0
+
+> ~/apache-web-application/index.html
+	*	1789039141	0
+	"	92	6
+	^	92	7
+	.	92	6
+	+	1	6
+	+	93	0
+	+	57	9
+	+	92	6
+
+> ~/2md-devops-masterclass/script.sh
+	*	1789020705	0
+	"	7	3
+	^	7	4
+	.	7	3
+	+	4	2
+	+	7	3
+
+> ~/sample.txt
+	*	1789019398	0
+	"	9	16
+	^	9	17
+	.	9	16
+	+	10	19
+	+	2	20
+	+	9	16
 
 > ~/light.txt
 	*	1788078902	0
@@ -289,10 +343,3 @@
 	.	2	18
 	+	3	0
 	+	2	18
-
-> ~/sample.txt
-	*	1787387870	0
-	"	2	14
-	^	2	20
-	.	2	19
-	+	2	19
